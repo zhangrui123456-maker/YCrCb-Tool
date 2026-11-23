@@ -79,7 +79,7 @@
 
 ## 下载
 
-前往 [**GitHub Releases**](https://github.com/zhangrui123456-maker/YCrCb-Tool/releases/latest) 下载最新的 `YCrCb工具-v2.2.0.exe`。
+前往 [**GitHub Releases**](https://github.com/zhangrui123456-maker/YCrCb-Tool/releases/latest) 下载最新的 `YCrCb-Tool-v2.2.0.exe`。
 
 - 单文件免安装，双击即可运行，无需安装 Python
 - 适用于 **Windows 10 / 11 64 位**
@@ -87,7 +87,7 @@
 
 ## 使用方法
 
-1. 双击 `YCrCb工具.exe` 启动（也可以把图片拖进窗口，或用命令行 `YCrCb工具.exe 图片路径` 直接打开）
+1. 双击下载的 exe 启动（也可以把图片拖进窗口，或用命令行 `YCrCb-Tool-v2.2.0.exe 图片路径` 直接打开）
 2. 左侧「基础」页选择色彩标准与显示模式，拖动亮度 / 对比度 / 饱和度滑块实时预览
 3. 在「Y 增强」「色彩」「模拟」页继续调整；底部「分析」栏查看直方图、波形和曲线
 4. 按住空格对比原图，`Ctrl+D` 并排对比，`Ctrl+滚轮` 缩放、拖拽平移
